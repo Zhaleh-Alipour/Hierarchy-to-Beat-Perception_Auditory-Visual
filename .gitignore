@@ -1,0 +1,6 @@
+# Ignoredata contents but keep README
+/data/*
+!/data/README.md
+
+# Node dependencies
+node_modules/
