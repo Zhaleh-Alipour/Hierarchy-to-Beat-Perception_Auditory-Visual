@@ -1063,7 +1063,7 @@ function makeExcel(finalExcel){
         worksheet.cell(x,34).number(finalExcel[key][29]);
         x++;
     });
-    workbook.write("../results/FinalResults.xlsx");
+    workbook.write("../results/PrimaryResults_132participants.xlsx");
 }
 function makeJsonFromXlsx(){
     
@@ -1086,4 +1086,4 @@ function makeFinalExcelFromJsons(){
     });
 }
 // makeJsonFromXlsx(); // Converts XLSX files From result_online folder to seperate JSON files into data/3_json_files folder. Sould run before makeFinalExcelFromJsons function.
-makeFinalExcelFromJsons(); // Converts JSON files form data folder into single Excel file (FinalResults). This shouldnt run without having JSON files in data folder.
+makeFinalExcelFromJsons(); // Converts JSON files form data/3_json_files into single Excel file "PrimaryResults_132participants" in "results" folder. This cannot run before having JSON files in data/3_json_files folder.
