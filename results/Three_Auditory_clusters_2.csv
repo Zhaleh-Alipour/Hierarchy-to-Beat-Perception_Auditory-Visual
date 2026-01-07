@@ -1,0 +1,118 @@
+Timing.level,Cluster.1,Timing.level2,Cluster.2,Timing.level3,Cluster.3
+Single duration timing,0.64,Single duration timing,0.9,Single duration timing,0.79
+Single duration timing,0.6,Single duration timing,0.74,Single duration timing,0.9
+Single duration timing,0.64,Single duration timing,0.81,Single duration timing,0.79
+Single duration timing,0.76,Single duration timing,0.67,Single duration timing,0.79
+Single duration timing,0.88,Single duration timing,0.88,Single duration timing,0.79
+Single duration timing,0.67,Single duration timing,0.79,Single duration timing,0.71
+Single duration timing,0.57,Single duration timing,0.81,Single duration timing,0.6
+Single duration timing,0.76,Single duration timing,0.81,Single duration timing,0.71
+Single duration timing,0.69,Single duration timing,0.86,Single duration timing,0.79
+Single duration timing,0.76,Single duration timing,0.81,Single duration timing,0.74
+Single duration timing,0.83,Single duration timing,0.74,Single duration timing,0.9
+Single duration timing,0.64,Single duration timing,0.81,Single duration timing,0.76
+Single duration timing,0.64,Single duration timing,0.76,Single duration timing,0.83
+Single duration timing,0.86,Single duration timing,0.71,Single duration timing,0.69
+Single duration timing,0.69,Single duration timing,0.76,Single duration timing,0.62
+Single duration timing,0.81,Single duration timing,0.83,Single duration timing,0.74
+Single duration timing,0.83,Single duration timing,0.86,Single duration timing,0.9
+Single duration timing,0.69,Single duration timing,0.81,Single duration timing,0.74
+Single duration timing,0.62,Single duration timing,0.74,Single duration timing,0.69
+Single duration timing,0.5,Single duration timing,0.86,Single duration timing,0.4
+Single duration timing,0.6,Single duration timing,0.83,Single duration timing,0.69
+Single duration timing,0.69,Single duration timing,0.79,Single duration timing,0.79
+Single duration timing,0.74,Single duration timing,0.86,Single duration timing,0.76
+Single duration timing,0.5,Single duration timing,0.74,Single duration timing,0.71
+Single duration timing,0.74,Single duration timing,0.76,Single duration timing,0.79
+Single duration timing,0.86,Single duration timing,0.81,Single duration timing,0.83
+Single duration timing,0.83,Single duration timing,0.71,Single duration timing,0.86
+Single duration timing,0.71,Single duration timing,0.74,Single duration timing,0.79
+Single duration timing,0.76,Sequence timing,0.97,Single duration timing,0.79
+Single duration timing,0.79,Sequence timing,0.77,Single duration timing,0.76
+Single duration timing,0.57,Sequence timing,0.8,Single duration timing,0.83
+Single duration timing,0.81,Sequence timing,0.7,Single duration timing,0.71
+Single duration timing,0.48,Sequence timing,0.93,Single duration timing,0.83
+Single duration timing,0.71,Sequence timing,0.7,Single duration timing,0.9
+Sequence timing,0.37,Sequence timing,0.9,Single duration timing,0.62
+Sequence timing,0.4,Sequence timing,0.8,Single duration timing,0.71
+Sequence timing,0.37,Sequence timing,0.7,Single duration timing,0.69
+Sequence timing,0.43,Sequence timing,0.73,Single duration timing,0.81
+Sequence timing,0.43,Sequence timing,0.73,Single duration timing,0.76
+Sequence timing,0.2,Sequence timing,0.87,Sequence timing,0.57
+Sequence timing,0.37,Sequence timing,0.63,Sequence timing,0.7
+Sequence timing,0.37,Sequence timing,0.83,Sequence timing,0.57
+Sequence timing,0.4,Sequence timing,0.83,Sequence timing,0.43
+Sequence timing,0.4,Sequence timing,0.9,Sequence timing,0.53
+Sequence timing,0.63,Sequence timing,0.8,Sequence timing,0.47
+Sequence timing,0.33,Sequence timing,0.6,Sequence timing,0.5
+Sequence timing,0.43,Sequence timing,0.87,Sequence timing,0.6
+Sequence timing,0.43,Sequence timing,0.9,Sequence timing,0.6
+Sequence timing,0.27,Sequence timing,0.7,Sequence timing,0.4
+Sequence timing,0.43,Sequence timing,0.83,Sequence timing,0.67
+Sequence timing,0.33,Sequence timing,0.67,Sequence timing,0.43
+Sequence timing,0.4,Sequence timing,0.73,Sequence timing,0.53
+Sequence timing,0.4,Sequence timing,0.6,Sequence timing,0.5
+Sequence timing,0.2,Sequence timing,0.7,Sequence timing,0.43
+Sequence timing,0.3,Sequence timing,0.53,Sequence timing,0.57
+Sequence timing,0.27,Sequence timing,0.67,Sequence timing,0.6
+Sequence timing,0.3,Beat-based timing,1.0,Sequence timing,0.43
+Sequence timing,0.33,Beat-based timing,0.7,Sequence timing,0.53
+Sequence timing,0.43,Beat-based timing,0.67,Sequence timing,0.53
+Sequence timing,0.3,Beat-based timing,0.73,Sequence timing,0.53
+Sequence timing,0.37,Beat-based timing,0.73,Sequence timing,0.7
+Sequence timing,0.5,Beat-based timing,0.63,Sequence timing,0.37
+Sequence timing,0.4,Beat-based timing,0.87,Sequence timing,0.37
+Sequence timing,0.57,Beat-based timing,0.6,Sequence timing,0.6
+Sequence timing,0.6,Beat-based timing,0.83,Sequence timing,0.57
+Sequence timing,0.43,Beat-based timing,0.63,Sequence timing,0.67
+Sequence timing,0.3,Beat-based timing,0.9,Sequence timing,0.43
+Sequence timing,0.47,Beat-based timing,0.87,Sequence timing,0.43
+Beat-based timing,0.37,Beat-based timing,0.77,Sequence timing,0.6
+Beat-based timing,0.53,Beat-based timing,0.7,Sequence timing,0.43
+Beat-based timing,0.3,Beat-based timing,0.8,Sequence timing,0.47
+Beat-based timing,0.4,Beat-based timing,0.97,Sequence timing,0.53
+Beat-based timing,0.43,Beat-based timing,0.9,Sequence timing,0.53
+Beat-based timing,0.13,Beat-based timing,0.8,Sequence timing,0.67
+Beat-based timing,0.33,Beat-based timing,0.87,Sequence timing,0.4
+Beat-based timing,0.17,Beat-based timing,0.9,Sequence timing,0.53
+Beat-based timing,0.33,Beat-based timing,0.63,Sequence timing,0.53
+Beat-based timing,0.33,Beat-based timing,0.67,Sequence timing,0.6
+Beat-based timing,0.3,Beat-based timing,0.67,Beat-based timing,0.53
+Beat-based timing,0.43,Beat-based timing,0.67,Beat-based timing,0.37
+Beat-based timing,0.37,Beat-based timing,0.87,Beat-based timing,0.5
+Beat-based timing,0.3,Beat-based timing,0.73,Beat-based timing,0.93
+Beat-based timing,0.5,Beat-based timing,0.87,Beat-based timing,0.77
+Beat-based timing,0.4,Beat-based timing,0.83,Beat-based timing,0.6
+Beat-based timing,0.37,,,Beat-based timing,0.5
+Beat-based timing,0.33,,,Beat-based timing,0.57
+Beat-based timing,0.47,,,Beat-based timing,0.63
+Beat-based timing,0.4,,,Beat-based timing,0.53
+Beat-based timing,0.5,,,Beat-based timing,0.43
+Beat-based timing,0.33,,,Beat-based timing,0.57
+Beat-based timing,0.27,,,Beat-based timing,0.53
+Beat-based timing,0.43,,,Beat-based timing,0.57
+Beat-based timing,0.4,,,Beat-based timing,0.57
+Beat-based timing,0.47,,,Beat-based timing,0.53
+Beat-based timing,0.4,,,Beat-based timing,0.63
+Beat-based timing,0.37,,,Beat-based timing,0.6
+Beat-based timing,0.47,,,Beat-based timing,0.47
+Beat-based timing,0.37,,,Beat-based timing,0.83
+Beat-based timing,0.37,,,Beat-based timing,0.53
+Beat-based timing,0.43,,,Beat-based timing,0.47
+Beat-based timing,0.43,,,Beat-based timing,0.67
+Beat-based timing,0.2,,,Beat-based timing,0.63
+,,,,Beat-based timing,0.6
+,,,,Beat-based timing,0.73
+,,,,Beat-based timing,0.6
+,,,,Beat-based timing,0.6
+,,,,Beat-based timing,0.5
+,,,,Beat-based timing,0.67
+,,,,Beat-based timing,0.57
+,,,,Beat-based timing,0.77
+,,,,Beat-based timing,0.5
+,,,,Beat-based timing,0.67
+,,,,Beat-based timing,0.6
+,,,,Beat-based timing,0.63
+,,,,Beat-based timing,0.57
+,,,,Beat-based timing,0.5
+,,,,Beat-based timing,0.67
