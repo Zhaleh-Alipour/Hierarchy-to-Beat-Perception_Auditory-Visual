@@ -1,6 +1,6 @@
 # Hierarchy to Beat Perception in Two Modalities of Audition and Vision
 
-This repository contains the code, data (sample and derived), and analysis pipelines used in the PhD project *Duration, Sequence, and Beat Perception across Modalities*.  
+This repository contains the code, data (sample and derived), and analysis pipelines used in the PhD project **Duration, Sequence, and Beat Perception across Modalities**.  
 The project investigates how lower-level timing abilities contribute to beat perception across auditory and visual modalities.
 
 ## Repository structure
