@@ -4,7 +4,7 @@ This folder contains code `main.js` for converting preprocessed `.xlsx` files in
 
 ## Input / Output
 - **Input:** Preprocessed data files located in `data/2_preprocessed_data`
-- **Output:**: JSON files (data/3_json_files) and final results of the experiment (`results/PrimaryResults_132participants.xlsx`)
+- **Output:**: JSON files (`data/3_json_files`) and final results of the experiment (`results/PrimaryResults_132participants.xlsx`)
 
 ## Usage
 Conversion process involves two functions at the end of the code: 
