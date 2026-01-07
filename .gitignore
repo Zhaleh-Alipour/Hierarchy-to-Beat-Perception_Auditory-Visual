@@ -1,6 +1,21 @@
-# Ignoredata contents but keep README
+# IIgnore everything inside root data folder, but ...
 /data/*
+# keep documentation
 !/data/README.md
+# keep sample end_of_study questionnaire data
+!/data/End_of_study_Q_sample.xlsx
+# keep sample raw experimental data
+
+!/data/1_raw_data_sample/
+!/data/1_raw_data_sample/**
+
 
 # Node dependencies
 node_modules/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+logs/
